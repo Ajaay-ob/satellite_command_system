@@ -17,5 +17,6 @@ Simple console-based Satellite Command System demonstrating:
 1. From project root:
    ```bash
    mkdir src
-   javac cli/*.java model/*.java command/*.java exceptions/*.java observer/*.java
+   <!-- To compile this project follow thw below line -->
+   <!-- javac cli/*.java model/*.java command/*.java exceptions/*.java observer/*.java -->
    java -cp cli.Main
